@@ -1,0 +1,15 @@
+{
+  "name": "laoke-ecom-copy",
+  "slug": "laoke-ecom-copy",
+  "displayName": "电商商品文案生成器",
+  "version": "1.0.0",
+  "author": "局内人·老K",
+  "category": "内容创作",
+  "tags": ["电商", "商品文案", "标题优化", "多平台", "卖点", "SEO"],
+  "description": "通用电商商品标题与卖点文案生成工具，覆盖淘宝拼多多京东抖音亚马逊多平台差异化",
+  "compatibility": "通用（支持 Skill 的 Agent：Claude Code / CodeBuddy / DeepSeek / WorkBuddy 等）",
+  "permissions": "读取商品信息、生成标题与卖点文案 Markdown、运行内置 Python 生成脚本",
+  "safety": "仅用于合法合规的商品描述；内置护栏，硬拒虚假宣传、极限词、侵权与刷单类请求",
+  "license": "MIT",
+  "entry": "SKILL.md"
+}
